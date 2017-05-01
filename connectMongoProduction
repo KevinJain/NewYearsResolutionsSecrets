@@ -1,2 +1,2 @@
 #!/bin/bash
-mongo "mongodb://production-shard-00-00-hwvkf.mongodb.net:27017,production-shard-00-01-hwvkf.mongodb.net:27017,production-shard-00-02-hwvkf.mongodb.net:27017/Production?replicaSet=Production-shard-0" --authenticationDatabase admin --ssl --username MongoProductionAdmin --password "MKp5B#9VQF68avY&72QAtnEAHQ"
+mongo "mongodb://production-shard-00-00-hwvkf.mongodb.net:27017,production-shard-00-01-hwvkf.mongodb.net:27017,production-shard-00-02-hwvkf.mongodb.net:27017/Production?replicaSet=Production-shard-0" --authenticationDatabase admin --ssl --username MongoProductionAdmin --password "qtQJgUAnHxH9ep7t2KzNCu7P"

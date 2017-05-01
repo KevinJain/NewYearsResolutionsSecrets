@@ -2,7 +2,7 @@
 	"galaxy.meteor.com": {
 		"env": {
 			"ROOT_URL": "https://stage.12weekplans.com",
-			"MONGO_URL": "mongodb://MongoStageAdmin:ZBP2t^wydYTeW93UVk*M9#gP@j@stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?ssl=true&replicaSet=Stage-shard-0&authSource=admin"
+			"MONGO_URL": "mongodb://MongoStageAdmin:jddBMFPDaadJcn2Y288NNMNw@stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?ssl=true&replicaSet=Stage-shard-0&authSource=admin"
 		}
 	}
 }

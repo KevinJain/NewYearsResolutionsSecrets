@@ -1,2 +1,2 @@
 #!/bin/bash
-mongo "mongodb://stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?replicaSet=Stage-shard-0" --authenticationDatabase admin --ssl --username MongoStageAdmin --password ZBP2t^wydYTeW93UVk*M9#gP@j
+mongo "mongodb://stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?replicaSet=Stage-shard-0" --authenticationDatabase admin --ssl --username MongoStageAdmin --password "jddBMFPDaadJcn2Y288NNMNw"
