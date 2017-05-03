@@ -6,11 +6,11 @@
 		}
 	},
 	"stripe": {
-		"secret_key": "sk_test_4QxBHPLfyedNWKwqF3XQ5YHv"
+		"secret_key": "sk_test_RBAZwNgg9BQK6eD90eWFvx8B"
 	},
 	"public": {
 		"stripe": {
-			"publishable_key": "pk_test_4QxBQdB6biJ4Aa2LqHUs9KJ1"
+			"publishable_key": "pk_test_5cLfy6bY0tABojgkiWk3KmI5"
 		}
 	}
 }
