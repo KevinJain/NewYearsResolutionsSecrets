@@ -5,6 +5,11 @@
 			"MONGO_URL": "mongodb://MongoProductionAdmin:qtQJgUAnHxH9ep7t2KzNCu7P@production-shard-00-00-hwvkf.mongodb.net:27017,production-shard-00-01-hwvkf.mongodb.net:27017,production-shard-00-02-hwvkf.mongodb.net:27017/Production?ssl=true&replicaSet=Production-shard-0&authSource=admin"
 		}
 	},
+	"cloudinary": {
+		"name": "dbil50ah1",
+		"key": "321966371949676",
+		"secret": "_C8wmjxkZX1NCOCfu3-wZCR_EUg"
+	},
 	"stripe": {
 		"secret_key": "sk_live_SfWrslKMh5OMe0vf8IqSrrJy"
 	},

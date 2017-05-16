@@ -1,4 +1,9 @@
 {
+	"cloudinary": {
+		"name": "rkhzund",
+		"key": "864327823954748",
+		"secret": "9-ObNyeP-TsRkVWcEDrkjhlFZ0A"
+	},
 	"stripe": {
 		"secret_key": "sk_test_RBAZwNgg9BQK6eD90eWFvx8B"
 	},
