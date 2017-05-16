@@ -6,14 +6,16 @@
 		}
 	},
 	"cloudinary": {
-		"name": "yfhadxusk",
-		"key": "231716954447668",
 		"secret": "ULmlnUil1XzmPDY-hGGMN6ByrU8"
 	},
 	"stripe": {
 		"secret_key": "sk_test_RBAZwNgg9BQK6eD90eWFvx8B"
 	},
 	"public": {
+		"cloudinary": {
+			"name": "yfhadxusk",
+			"key": "231716954447668"
+		},
 		"stripe": {
 			"publishable_key": "pk_test_5cLfy6bY0tABojgkiWk3KmI5"
 		}

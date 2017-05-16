@@ -1,7 +1,5 @@
 {
 	"cloudinary": {
-		"name": "rkhzund",
-		"key": "864327823954748",
 		"secret": "9-ObNyeP-TsRkVWcEDrkjhlFZ0A"
 	},
 	"stripe": {
@@ -10,6 +8,10 @@
 	"public": {
 		"stripe": {
 			"publishable_key": "pk_test_5cLfy6bY0tABojgkiWk3KmI5"
+		},
+		"cloudinary": {
+			"name": "rkhzund",
+			"key": "864327823954748"
 		}
 	}
 }

@@ -6,14 +6,16 @@
 		}
 	},
 	"cloudinary": {
-		"name": "dbil50ah1",
-		"key": "321966371949676",
 		"secret": "_C8wmjxkZX1NCOCfu3-wZCR_EUg"
 	},
 	"stripe": {
 		"secret_key": "sk_live_SfWrslKMh5OMe0vf8IqSrrJy"
 	},
 	"public": {
+		"cloudinary": {
+			"name": "dbil50ah1",
+			"key": "321966371949676"
+		},
 		"stripe": {
 			"publishable_key": "pk_live_aPSgPCJdrblRNLmtJrzw5Gc1"
 		}
