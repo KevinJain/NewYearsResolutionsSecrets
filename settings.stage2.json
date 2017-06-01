@@ -1,23 +1,23 @@
 {
-	"galaxy.meteor.com": {
-		"env": {
-			"ROOT_URL": "https://stage2.12weekplans.com",
-			"MONGO_URL": "mongodb://MongoStageAdmin:jddBMFPDaadJcn2Y288NNMNw@stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?ssl=true&replicaSet=Stage-shard-0&authSource=admin"
-		}
-	},
-	"cloudinary": {
-		"secret": "ULmlnUil1XzmPDY-hGGMN6ByrU8"
-	},
-	"stripe": {
-		"secret_key": "sk_test_RBAZwNgg9BQK6eD90eWFvx8B"
-	},
-	"public": {
-		"cloudinary": {
-			"name": "yfhadxusk",
-			"key": "231716954447668"
-		},
-		"stripe": {
-			"publishable_key": "pk_test_5cLfy6bY0tABojgkiWk3KmI5"
-		}
-	}
+  "galaxy.meteor.com": {
+    "env": {
+      "ROOT_URL": "https://stage2.12weekplans.com",
+      "MONGO_URL": "mongodb://MongoStageAdmin:jddBMFPDaadJcn2Y288NNMNw@stage-shard-00-00-hwvkf.mongodb.net:27017,stage-shard-00-01-hwvkf.mongodb.net:27017,stage-shard-00-02-hwvkf.mongodb.net:27017/Stage?ssl=true&replicaSet=Stage-shard-0&authSource=admin"
+    }
+  },
+  "cloudinary": {
+    "secret": "ULmlnUil1XzmPDY-hGGMN6ByrU8"
+  },
+  "stripe": {
+    "secret_key": "sk_test_RBAZwNgg9BQK6eD90eWFvx8B"
+  },
+  "public": {
+    "cloudinary": {
+      "name": "yfhadxusk",
+      "key": "231716954447668"
+    },
+    "stripe": {
+      "publishable_key": "pk_test_5cLfy6bY0tABojgkiWk3KmI5"
+    }
+  }
 }
